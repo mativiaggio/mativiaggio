@@ -16,7 +16,7 @@
 
 <br>
 <h2 align='center'><i>My Abilities</i></h2>
-<hr>
+
 <div align='center'>
 
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
@@ -34,7 +34,7 @@
 
 <br>
 <h2 align='center'><i>What I will learn</i></h2>
-<hr>
+
 
 <div align='center'>
 
@@ -63,7 +63,7 @@ On May 2022 I decided to go deeper in my Web Developer learning proccess, so I a
 - Backend PRogramming (Dec 6th 2022 to May 30th 2023)
 <br><br>
 <h2 align="center"><i>My Python certificate</i></h2>
-<hr><br>
+<br>
 
 <div align="center">
   <a target="_blank" align="center">
@@ -73,7 +73,7 @@ On May 2022 I decided to go deeper in my Web Developer learning proccess, so I a
 
 <br><br>
 <h2 align="center"><i>My Web Development certificate</i></h2>
-<hr><br>
+<br>
 
 <div align="center">
   <a target="_blank" align="center">
@@ -86,7 +86,7 @@ On May 2022 I decided to go deeper in my Web Developer learning proccess, so I a
 <div align='center'>
 
   <h2 align='center'><i>My Stats</i></h2>
-  <hr><br>
+  <br>
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mativiaggio&theme=tokyonight&show_icons=true&count_private=true&hide_title=true&title_color=fcec22)<br><br>
   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mativiaggio&theme=tokyonight&title_color=fcec22)](https://github.com/anuraghazra/github-readme-stats)<br><br>
