@@ -67,7 +67,10 @@ On May 2022 I decided to go deeper in my Web Developer learning proccess, so I a
 
 <div align="center">
   <a target="_blank" align="center">
-    <img align="center" height="520" width="690" alt="GIF" src="./assets/pythonCertificate.png">
+    <picture>
+      <source srcset="./assets/pythonCertificate.png" media="(min-width: 768px)" />
+      <img srcset="./assets/pythonCertificate.png" alt="desarrollo web" />
+    </picture>
   </a>
 </div>
 
@@ -77,7 +80,11 @@ On May 2022 I decided to go deeper in my Web Developer learning proccess, so I a
 
 <div align="center">
   <a target="_blank" align="center">
-    <img align="center" height="520" width="690" alt="GIF" src="./assets/certificadoDesarrolloWeb.png">
+    <picture>
+      <source srcset="./assets/certificadoDesarrolloWeb.png" media="(min-width: 768px)" />
+      <img srcset="./assets/certificadoDesarrolloWeb.png" alt="desarrollo web" />
+    </picture>
+
   </a>
 </div>
 <br><br><br>
