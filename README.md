@@ -31,7 +31,7 @@ On May 2022 I decided to go deeper in my Web Developer learning proccess, so I a
 
 <div align="center">
   <a target="_blank" align="center">
-    <img align="center" height="520" width="640" alt="GIF" src="./assets/pythonCertificate.png">
+    <img align="center" height="520" width="690" alt="GIF" src="./assets/pythonCertificate.png">
   </a>
 </div>
 
@@ -40,7 +40,7 @@ On May 2022 I decided to go deeper in my Web Developer learning proccess, so I a
 
 <div align="center">
   <a target="_blank" align="center">
-    <img align="center" height="520" width="640" alt="GIF" src="./assets/certificadoDesarrolloWeb.png">
+    <img align="center" height="520" width="690" alt="GIF" src="./assets/certificadoDesarrolloWeb.png">
   </a>
 </div>
 
