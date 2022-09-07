@@ -3,7 +3,7 @@
 </h1>
 
 
-<div style="display: flex;">
+<div style="display: flex; flex-direction:row;">
   <div>
 
   - 👋 I’m @mativiaggio
@@ -13,7 +13,7 @@
   </div>
   <div>
 
-  <a target="_blank" align="right">
+  <a target="_blank">
     <picture>
       <source srcset="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4763nugzxngb8lrkowlqd9fcky8y6uwc14hj4l4ybb&rid=giphy.gif&ct=g" media="(min-width: 768px)" />
       <img height="250" width="300" srcset="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4763nugzxngb8lrkowlqd9fcky8y6uwc14hj4l4ybb&rid=giphy.gif&ct=g" media="(min-width: 768px)"/>
