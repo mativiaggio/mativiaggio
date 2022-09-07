@@ -27,7 +27,7 @@
 <br/>
 
 
-<br
+<br>
 <h2 align='center'><i>My Abilities</i></h2>
 
 <div align='center'>
