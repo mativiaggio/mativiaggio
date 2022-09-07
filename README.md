@@ -4,14 +4,14 @@
 
 
 <div style="display: flex;">
-  <div style="width: 50%; display:flex; justify-content:center; align-items:center;">
+  <div>
 
   - 👋 I’m @mativiaggio
   - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 study𝚒𝚗𝚐 **Information Systems Analysis and Full Stack Web Development**
   - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
 
   </div>
-  <div style="width: 50%; display:flex; justify-content:center; align-items:center;" >
+  <div>
 
   <a target="_blank" align="right">
     <picture>
