@@ -1,5 +1,5 @@
 <h1 align="center">
-  👨‍💻𝐇𝐞𝐥𝐥𝐨, &lt;everyone/&gt;👩‍💻!
+  𝐇𝐞𝐥𝐥𝐨, &lt;everyone/&gt;!
 </h1>
 
 <br/>
