@@ -1,14 +1,6 @@
 <h1 align="center">
   𝐇𝐞𝐥𝐥𝐨, <span style="color: #be90f2; font-weight:500;">&lt;everyone/&gt;</span>!
 </h1>
-
-<br/>
-<br/>
-<a target="_blank" align="center">
-  <img align="right" top="0" height="250" width="300" alt="GIF" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4763nugzxngb8lrkowlqd9fcky8y6uwc14hj4l4ybb&rid=giphy.gif&ct=g">
-</a>
-
-<br><br><br>
 <div>
 
 - 👋 I’m @mativiaggio
@@ -17,7 +9,16 @@
 
 </div>
 
-<br><br><br><br><br><br><br><br>
+<br/>
+<br/>
+<div align="center" >
+<a target="_blank" align="center">
+  <picture>
+    <source srcset="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4763nugzxngb8lrkowlqd9fcky8y6uwc14hj4l4ybb&rid=giphy.gif&ct=g" media="(min-width: 768px)" />
+    <img height="250" width="300" srcset="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4763nugzxngb8lrkowlqd9fcky8y6uwc14hj4l4ybb&rid=giphy.gif&ct=g" alt="desarrollo web" media="(min-width: 768px)"/>
+  </picture>
+</a>
+</div>
 
 <br>
 <h2 align='center'><i>My Abilities</i></h2>
