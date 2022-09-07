@@ -1,26 +1,33 @@
 <h1 align="center">
   𝐇𝐞𝐥𝐥𝐨, <span style="color: #be90f2; font-weight:500;">&lt;everyone/&gt;</span>!
 </h1>
-<div>
 
-- 👋 I’m @mativiaggio
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 study𝚒𝚗𝚐 **Information Systems Analysis and Full Stack Web Development**
-- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
 
+<div style="display: flex;">
+  <div style="width: 50%; display:flex; justify-content:center; align-items:center;">
+
+  - 👋 I’m @mativiaggio
+  - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 study𝚒𝚗𝚐 **Information Systems Analysis and Full Stack Web Development**
+  - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
+
+  </div>
+  <div style="width: 50%; display:flex; justify-content:center; align-items:center;" >
+
+  <a target="_blank" align="right">
+    <picture>
+      <source srcset="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4763nugzxngb8lrkowlqd9fcky8y6uwc14hj4l4ybb&rid=giphy.gif&ct=g" media="(min-width: 768px)" />
+      <img height="100%" width="100%" srcset="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4763nugzxngb8lrkowlqd9fcky8y6uwc14hj4l4ybb&rid=giphy.gif&ct=g" media="(min-width: 768px)"/>
+    </picture>
+  </a>
+  
+  </div>
 </div>
 
 <br/>
 <br/>
-<div align="center" >
-<a target="_blank" align="center">
-  <picture>
-    <source srcset="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4763nugzxngb8lrkowlqd9fcky8y6uwc14hj4l4ybb&rid=giphy.gif&ct=g" media="(min-width: 768px)" />
-    <img height="250" width="300" srcset="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4763nugzxngb8lrkowlqd9fcky8y6uwc14hj4l4ybb&rid=giphy.gif&ct=g" alt="desarrollo web" media="(min-width: 768px)"/>
-  </picture>
-</a>
-</div>
 
-<br>
+
+<br
 <h2 align='center'><i>My Abilities</i></h2>
 
 <div align='center'>
