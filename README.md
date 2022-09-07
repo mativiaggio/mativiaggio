@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @4c616b6173, my real name is Matias
-- 👀 I’m interested in Full Stack coding
-- 🌱 I’m currently learning HTML and CSS 
+- 👋 Hi, I’m @mativiaggio
+- 👀 I’m interested in Full Stack development and Information Systems Analysis degree. 
+- 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
