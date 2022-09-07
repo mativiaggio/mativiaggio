@@ -14,6 +14,41 @@
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
 <br><br><br><br><br><br><br>
 
+<br>
+<h2 align='center'><i>My Abilities</i></h2>
+<hr>
+<div align='center'>
+
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
+![Css](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=blue)
+![Sass](https://img.shields.io/badge/-SASS-000000?style=for-the-badge&logo=sass)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=7836f9)
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
+![Django]( 	https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=10543a)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00c7b7)
+
+</div>
+
+<br>
+<h2 align='center'><i>What I will learn</i></h2>
+<hr>
+
+<div align='center'>
+
+![ReactJS](https://img.shields.io/badge/-ReactJS-000000?style=for-the-badge&logo=react&logoColor=blue)
+![NodeJs](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=green)
+![ExpressJs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express.js)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=4ea94b)
+![](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00599c)
+![Typescript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=007acc)
+![AmazonAWS](https://img.shields.io/badge/Amazon_AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=f28f02)
+
+<br><br>
+</div>
 <div align="start">
 <h2><i>A little bit about me:</i></h2>
 </div>
@@ -59,43 +94,14 @@ On May 2022 I decided to go deeper in my Web Developer learning proccess, so I a
 
 </div>
 
-<br>
-<h2 align='center'><i>My Abilities</i></h2>
-<hr>
-<div align='center'>
+<br><br>
 
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
-![Css](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=blue)
-![Sass](https://img.shields.io/badge/-SASS-000000?style=for-the-badge&logo=sass)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=7836f9)
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
-![Django]( 	https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=10543a)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00c7b7)
-
-</div>
-
-<br>
-<h2 align='center'><i>What I will learn</i></h2>
-<hr>
-
-<div align='center'>
-
-![ReactJS](https://img.shields.io/badge/-ReactJS-000000?style=for-the-badge&logo=react&logoColor=blue)
-![NodeJs](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=green)
-![ExpressJs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express.js)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=4ea94b)
-![](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00599c)
-![Typescript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=007acc)
-![AmazonAWS](https://img.shields.io/badge/Amazon_AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=f28f02)
-
-
-</div>
-
-
+<h1 align='center'><i>My Social Accounts</i></h1>
+<p align="center">
+  <a href="https://linkedin.com/in/matiasviaggio"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/mativiaggio"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://github.com/mativiaggio"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
+</p>
 
 
 
