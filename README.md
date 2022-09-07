@@ -66,9 +66,9 @@ On May 2022 I decided to go deeper in my Web Developer learning proccess, so I a
 <br>
 
 <div align="center">
-  <a target="_blank" align="center">
+  <a href="https://www.coderhouse.com/certificados/629fe157a7040900246fe49f?lang=en" target="_blank" align="center">
     <picture>
-      <source srcset="./assets/pythonCertificate.png" media="(min-width: 768px)" />
+      <source srcset="./assets/pythonCertificate.png" media="(min-width: 0px)" />
       <img srcset="./assets/pythonCertificate.png" alt="desarrollo web" />
     </picture>
   </a>
@@ -79,9 +79,9 @@ On May 2022 I decided to go deeper in my Web Developer learning proccess, so I a
 <br>
 
 <div align="center">
-  <a target="_blank" align="center">
+  <a href="https://www.coderhouse.com/certificados/630eb452f6200300df213a20?lang=en" target="_blank" align="center">
     <picture>
-      <source srcset="./assets/certificadoDesarrolloWeb.png" media="(min-width: 768px)" />
+      <source srcset="./assets/certificadoDesarrolloWeb.png" media="(min-width: 0px)" />
       <img srcset="./assets/certificadoDesarrolloWeb.png" alt="desarrollo web" />
     </picture>
 
