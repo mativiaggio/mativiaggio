@@ -1,18 +1,23 @@
 <h1 align="center">
-  𝐇𝐞𝐥𝐥𝐨, &lt;everyone/&gt;!
+  𝐇𝐞𝐥𝐥𝐨, <span style="color: #be90f2; font-weight:500;">&lt;everyone/&gt;</span>!
 </h1>
 
 <br/>
 <br/>
-
 <a target="_blank" align="center">
-  <img align="right" top="500" height="200" width="250" alt="GIF" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4763nugzxngb8lrkowlqd9fcky8y6uwc14hj4l4ybb&rid=giphy.gif&ct=g">
+  <img align="right" top="0" height="250" width="300" alt="GIF" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4763nugzxngb8lrkowlqd9fcky8y6uwc14hj4l4ybb&rid=giphy.gif&ct=g">
 </a>
 
-- 👋 Hi, I’m @mativiaggio
+
+<div>
+
+- 👋 I’m @mativiaggio
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 study𝚒𝚗𝚐 **Information Systems Analysis and Full Stack Web Development**
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
-<br><br><br><br>
+
+</div>
+
+<br><br><br><br><br><br><br><br>
 
 <br>
 <h2 align='center'><i>My Abilities</i></h2>
