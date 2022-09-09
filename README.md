@@ -46,7 +46,7 @@
 <h2><i>A little bit about me:</i></h2>
 </div>
 My name is Matias and I'm a Student. I was born in Argentina, on october 25th 2001. <br>
-My journey as a programmer started on february 2022 when I decided to take a Python and Django course. That was my first time coding. As I started the course  I also join college as a Information Systems Analysis student. 
+My journey as a programmer started on february 2022 when I decided to take a Python and Django course. That was my first time coding. As I started the course  I also join college as an Information Systems Analysis student. 
 On May 2022 I decided to go deeper in my Web Developer learning proccess, so I apply for a 1 year Full Stack course, which consist in four courses:
 <br><br>
 
