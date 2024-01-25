@@ -22,15 +22,6 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
 ![Django]( 	https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=10543a)
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00c7b7)
-
-</div>
-
-<br>
-<h2 align='center'><i>What I will learn in the following months</i></h2>
-
-
-<div align='center'>
-
 ![ReactJS](https://img.shields.io/badge/-ReactJS-000000?style=for-the-badge&logo=react&logoColor=blue)
 ![NodeJs](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=green)
 ![ExpressJs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express.js)
@@ -40,8 +31,11 @@
 ![Typescript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=007acc)
 ![AmazonAWS](https://img.shields.io/badge/Amazon_AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=f28f02)
 
-<br><br>
 </div>
+
+<br>
+<h2 align='center'><i>What I will learn in the following months</i></h2>
+
 <div align="start">
 <h2><i>A little bit about me:</i></h2>
 </div>
