@@ -2,9 +2,8 @@
   𝐇𝐞𝐥𝐥𝐨, <span style="color: #be90f2; font-weight:500;">&lt;everyone/&gt;</span>!
 </h1>
 
-- 👋 I’m @mativiaggio
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 study𝚒𝚗𝚐 **Information Systems Analysis and Full Stack Web Development**
-- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
+- 👋 I’m @mativiaggio, I’m a programmer.
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 study𝚒𝚗𝚐 **Information Systems Analysis**
 
 <br/>
 
