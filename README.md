@@ -54,16 +54,46 @@ On May 2022 I decided to go deeper in my Web Developer learning proccess, so I a
 - JavaScript (Aug 9th 2022 to Oct 4th 2022) 
 - React JS (Oct 10th 2022 to Nov 24th 2022) 
 - Backend PRogramming (Dec 6th 2022 to May 30th 2023)
+
 <br><br>
-<h2 align="center"><i>My Python certificate</i></h2>
+<h2 align="center"><i>My React Frontend Development Career certificate</i></h2>
 <br>
 
 <div align="center">
-  <a href="https://www.coderhouse.com/certificados/629fe157a7040900246fe49f?lang=en" target="_blank" align="center">
+  <a href="https://www.coderhouse.com/certificados/63bc233bb3d8ad000e661f7c" target="_blank" align="center">
     <picture>
-      <source srcset="./assets/pythonCertificate.png" media="(min-width: 0px)" />
-      <img srcset="./assets/pythonCertificate.png" alt="desarrollo web" />
+      <source srcset="./assets/certificadoReactJSFrontEndCareer.png" media="(min-width: 0px)" />
+      <img srcset="./assets/certificadoReactJSFrontEndCareer.png" alt="desarrollo web" />
     </picture>
+
+  </a>
+</div>
+
+<br><br>
+<h2 align="center"><i>My ReactJS certificate</i></h2>
+<br>
+
+<div align="center">
+  <a href="https://www.coderhouse.com/certificados/63bc233bb3d8ad000e661f79" target="_blank" align="center">
+    <picture>
+      <source srcset="./assets/certificadoReactJS.png" media="(min-width: 0px)" />
+      <img srcset="./assets/certificadoJReactJS.png" alt="desarrollo web" />
+    </picture>
+
+  </a>
+</div>
+
+<br><br>
+<h2 align="center"><i>My JavaScript certificate</i></h2>
+<br>
+
+<div align="center">
+  <a href="https://www.coderhouse.com/certificados/63476043fdbeea000e9e4cb9" target="_blank" align="center">
+    <picture>
+      <source srcset="./assets/certificadoJavaScript.png" media="(min-width: 0px)" />
+      <img srcset="./assets/certificadoJavaScript.png" alt="desarrollo web" />
+    </picture>
+
   </a>
 </div>
 
@@ -78,6 +108,19 @@ On May 2022 I decided to go deeper in my Web Developer learning proccess, so I a
       <img srcset="./assets/certificadoDesarrolloWeb.png" alt="desarrollo web" />
     </picture>
 
+  </a>
+</div>
+
+<br><br>
+<h2 align="center"><i>My Python certificate</i></h2>
+<br>
+
+<div align="center">
+  <a href="https://www.coderhouse.com/certificados/629fe157a7040900246fe49f?lang=en" target="_blank" align="center">
+    <picture>
+      <source srcset="./assets/pythonCertificate.png" media="(min-width: 0px)" />
+      <img srcset="./assets/pythonCertificate.png" alt="desarrollo web" />
+    </picture>
   </a>
 </div>
 <br><br><br>
