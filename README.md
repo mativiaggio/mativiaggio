@@ -46,7 +46,6 @@
 </div>
 
 <br>
-<h2 align='center'><i>What I will learn in the following months</i></h2>
 
 <div align="start">
 <h2><i>A little bit about me:</i></h2>
