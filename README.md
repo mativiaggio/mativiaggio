@@ -44,22 +44,6 @@
 
 
 </div>
-
-<br>
-
-<div align="start">
-<h2><i>A little bit about me:</i></h2>
-</div>
-My name is Matias and I'm a Student. I was born in Argentina, on october 25th 2001. <br>
-My journey as a programmer started on february 2022 when I decided to take a Python and Django course. That was my first time coding. As I started the course  I also join college as an Information Systems Analysis student. 
-On May 2022 I decided to go deeper in my Web Developer learning proccess, so I apply for a 1 year Full Stack course, which consist in four courses:
-<br><br>
-
-- Web Development (May 24th 2022 to July 26th 2022) 
-- JavaScript (Aug 9th 2022 to Oct 4th 2022) 
-- React JS (Oct 10th 2022 to Nov 24th 2022) 
-- Backend PRogramming (Dec 6th 2022 to May 30th 2023)
-
 <br><br>
 <h2 align="center"><i>My React Frontend Development Career certificate</i></h2>
 <br>
