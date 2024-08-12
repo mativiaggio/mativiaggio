@@ -42,10 +42,9 @@
 
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
 
-
 </div>
 <br><br>
-<h2 align="center"><i>My React Frontend Development Career certificate</i></h2>
+<h2 align="center"><i>My Backend Certificate</i></h2>
 <br>
 
 <div align="center">
@@ -59,7 +58,8 @@
 </div>
 
 <br><br>
-<h2 align="center"><i>My React Backend Certificate</i></h2>
+
+<h2 align="center"><i>My React Frontend Development Career certificate</i></h2>
 <br>
 
 <div align="center">
@@ -73,6 +73,7 @@
 </div>
 
 <br><br>
+
 <h2 align="center"><i>My ReactJS Certificate</i></h2>
 <br>
 
@@ -87,6 +88,7 @@
 </div>
 
 <br><br>
+
 <h2 align="center"><i>My JavaScript Certificate</i></h2>
 <br>
 
@@ -101,6 +103,7 @@
 </div>
 
 <br><br>
+
 <h2 align="center"><i>My Web Development Certificate</i></h2>
 <br>
 
@@ -115,6 +118,7 @@
 </div>
 
 <br><br>
+
 <h2 align="center"><i>My Python Certificate</i></h2>
 <br>
 
@@ -128,23 +132,19 @@
 </div>
 <br><br><br>
 
-
 <div align='center'>
 
   <h2 align='center'><i>My Stats</i></h2>
   <br>
 
-| ![Matias's github stats](https://github-readme-stats.vercel.app/api?username=mativiaggio&show_icons=true&theme=tokyonight) | ![Matias GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mativiaggio&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mativiaggio&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=mativiaggio&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Matias's github stats](https://github-readme-stats.vercel.app/api?username=mativiaggio&show_icons=true&theme=tokyonight) | ![Matias GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mativiaggio&theme=tokyonight)                                                                                                           |
+| -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mativiaggio&theme=tokyonight)                  | ![Github Stars](https://github-readme-stats.vercel.app/api?username=mativiaggio&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
 </div>
 <br><br>
 
-
 [![Matias's github activity graph](https://activity-graph.herokuapp.com/graph?username=mativiaggio&theme=material-palenight)](https://github.com/mativiaggio/github-readme-activity-graph)
-
-
-
 
 <h1 align='center'><i>My Social Accounts</i></h1>
 <p align="center">
@@ -152,6 +152,3 @@
   <a href="https://instagram.com/mativiaggio"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://github.com/mativiaggio"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
 </p>
-
-
-
