@@ -11,14 +11,12 @@
 
 <div align='center'>
 
-## Programming Languages:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=007acc)
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00599c)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
 
-## Frontend Development:
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=blue)
 ![Sass](https://img.shields.io/badge/-SASS-000000?style=for-the-badge&logo=sass)
@@ -28,16 +26,13 @@
 ![NextJS](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
 ![Handlebars](https://img.shields.io/badge/Handlebars-000000?style=for-the-badge&logo=handlebars.js&logoColor=f0772b)
 
-## Backend Development:
 ![NodeJs](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=green)
 ![ExpressJs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express.js)
 ![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=10543a)
 
-## Databases:
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=4ea94b)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
 
-## DevOps & Cloud:
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
 ![AmazonAWS](https://img.shields.io/badge/Amazon_AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=f28f02)
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00c7b7)
@@ -45,7 +40,6 @@
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-000000?style=for-the-badge&logo=cloudinary&logoColor=3448c5)
 ![Appwrite](https://img.shields.io/badge/Appwrite-000000?style=for-the-badge&logo=appwrite&logoColor=ff2741)
 
-## Tools & Platforms:
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
 
 
