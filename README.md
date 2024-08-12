@@ -53,6 +53,20 @@ On May 2022 I decided to go deeper in my Web Developer learning proccess, so I a
 <br>
 
 <div align="center">
+  <a href="https://www.coderhouse.com/ar/certificados/66923fd7f2d5a36942e7e6b8?lang=en" target="_blank" align="center">
+    <picture>
+      <source srcset="./assets/programacion_backend.png" media="(min-width: 0px)" />
+      <img srcset="./assets/programacion_backend.png" alt="desarrollo web" />
+    </picture>
+
+  </a>
+</div>
+
+<br><br>
+<h2 align="center"><i>My React Backend Certificate</i></h2>
+<br>
+
+<div align="center">
   <a href="https://www.coderhouse.com/certificados/63bc233bb3d8ad000e661f7c" target="_blank" align="center">
     <picture>
       <source srcset="./assets/certificadoReactJSFrontEndCareer.png" media="(min-width: 0px)" />
@@ -63,56 +77,56 @@ On May 2022 I decided to go deeper in my Web Developer learning proccess, so I a
 </div>
 
 <br><br>
-<h2 align="center"><i>My ReactJS certificate</i></h2>
+<h2 align="center"><i>My ReactJS Certificate</i></h2>
 <br>
 
 <div align="center">
   <a href="https://www.coderhouse.com/certificados/63bc233bb3d8ad000e661f79" target="_blank" align="center">
     <picture>
-      <source srcset="./assets/certificadoReactJS.png" media="(min-width: 0px)" />
-      <img srcset="./assets/certificadoJReactJS.png" alt="desarrollo web" />
+      <source srcset="./assets/react_js.png" media="(min-width: 0px)" />
+      <img srcset="./assets/react_js.png" alt="desarrollo web" />
     </picture>
 
   </a>
 </div>
 
 <br><br>
-<h2 align="center"><i>My JavaScript certificate</i></h2>
+<h2 align="center"><i>My JavaScript Certificate</i></h2>
 <br>
 
 <div align="center">
   <a href="https://www.coderhouse.com/certificados/63476043fdbeea000e9e4cb9" target="_blank" align="center">
     <picture>
-      <source srcset="./assets/certificadoJavaScript.png" media="(min-width: 0px)" />
-      <img srcset="./assets/certificadoJavaScript.png" alt="desarrollo web" />
+      <source srcset="./assets/javascript.png" media="(min-width: 0px)" />
+      <img srcset="./assets/javascript.png" alt="desarrollo web" />
     </picture>
 
   </a>
 </div>
 
 <br><br>
-<h2 align="center"><i>My Web Development certificate</i></h2>
+<h2 align="center"><i>My Web Development Certificate</i></h2>
 <br>
 
 <div align="center">
   <a href="https://www.coderhouse.com/certificados/630eb452f6200300df213a20?lang=en" target="_blank" align="center">
     <picture>
-      <source srcset="./assets/certificadoDesarrolloWeb.png" media="(min-width: 0px)" />
-      <img srcset="./assets/certificadoDesarrolloWeb.png" alt="desarrollo web" />
+      <source srcset="./assets/desarrollo_web.png" media="(min-width: 0px)" />
+      <img srcset="./assets/desarrollo_web.png" alt="desarrollo web" />
     </picture>
 
   </a>
 </div>
 
 <br><br>
-<h2 align="center"><i>My Python certificate</i></h2>
+<h2 align="center"><i>My Python Certificate</i></h2>
 <br>
 
 <div align="center">
   <a href="https://www.coderhouse.com/certificados/629fe157a7040900246fe49f?lang=en" target="_blank" align="center">
     <picture>
-      <source srcset="./assets/pythonCertificate.png" media="(min-width: 0px)" />
-      <img srcset="./assets/pythonCertificate.png" alt="desarrollo web" />
+      <source srcset="./assets/python.png" media="(min-width: 0px)" />
+      <img srcset="./assets/python.png" alt="desarrollo web" />
     </picture>
   </a>
 </div>
